@@ -1,0 +1,30 @@
+header {
+    text-align: right;
+    width: 90%; 
+}
+
+body {
+	
+}
+main {
+    text-align: center;
+    border: 5px solid;
+    border-color: red; 
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    positin: fixed;
+}
+img  {
+	position: fixed;
+	left: 0px;
+    margin: 0 5em;
+    border: 1em;
+    box-sizing: border-box
+}
+p {
+	margin: 0;
+	padding-bottom: .5em;
+    align-content:;
+}
